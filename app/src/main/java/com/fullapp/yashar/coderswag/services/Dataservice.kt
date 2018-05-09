@@ -5,10 +5,10 @@ import com.fullapp.yashar.coderswag.model.Product
 
 object Dataservice {
     val category = listOf(
-      Category("SHIRTS","shirtimage"),
-      Category("HOODIES","hoodieimage"),
-      Category("HAT","hatimage"),
-      Category("DIGITAL","digitalgoodsimage")
+      Category("پیراهن","shirtimage"),
+      Category("پیراهن کلاهدار","hoodieimage"),
+      Category("کلاه","hatimage"),
+      Category("دیجیتال","digitalgoodsimage")
 
 
     )
