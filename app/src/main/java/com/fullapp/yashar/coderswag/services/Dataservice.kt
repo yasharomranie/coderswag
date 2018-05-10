@@ -8,6 +8,14 @@ object Dataservice {
       Category("پیراهن","shirtimage"),
       Category("پیراهن کلاهدار","hoodieimage"),
       Category("کلاه","hatimage"),
+      Category("دیجیتال","digitalgoodsimage"),
+       Category("پیراهن","shirtimage"),
+      Category("پیراهن کلاهدار","hoodieimage"),
+      Category("کلاه","hatimage"),
+      Category("دیجیتال","digitalgoodsimage"),
+      Category("پیراهن","shirtimage"),
+      Category("پیراهن کلاهدار","hoodieimage"),
+      Category("کلاه","hatimage"),
       Category("دیجیتال","digitalgoodsimage")
 
 
