@@ -34,5 +34,6 @@ lateinit var Adapter :ProductAdapter
         val layoutManager = GridLayoutManager(this , spancount)
         productlist.layoutManager=layoutManager
         productlist.adapter=Adapter
+
     }
 }
